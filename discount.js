@@ -1,4 +1,4 @@
-let purchase = 2000;
+let purchase = 100;
 let discount = (purchase/100) * 20;
 let good = ' great you got a discount of';
 let bad = 'too bad you didn\'t get a discount';
